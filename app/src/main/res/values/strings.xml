@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">轻松盘点</string>
+
+    <string name="label_login">登陆</string>
+
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
